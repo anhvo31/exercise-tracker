@@ -1,3 +1,5 @@
+# dependencies
 /node_module
-/package-lock.json
-/.env
+
+# misc.
+.env
